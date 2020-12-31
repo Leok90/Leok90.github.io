@@ -6,7 +6,7 @@
     </head>
     <body>
      <h1>영화 추천 서비스</h1>
-      <img src="img/main.jpg" />
+      <img src="img/main.JPG" />
       <p>맞춤형 영화 추천 서비스</p>
      <hr>
     </body>
